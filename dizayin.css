@@ -1,0 +1,109 @@
+*{
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+}
+#navbar{
+                width: 1400px;
+                display: flex;
+}
+#navbar #menu{
+                display: flex;
+                width: 850px;
+}
+#navbar #menu ul{
+                margin-left: 250px;
+                top: 30px;
+                position: absolute;
+                width: 600px;
+}
+#navbar #menu ul li{
+                list-style: none;
+}
+#navbar #menu ul li a{
+                text-decoration: none;
+                color: black;
+}
+#search{
+                width: 546px;
+}
+#search img{
+                width: 65px;
+                height: 40px;
+                margin-top: 20px;
+}
+#search input{
+                width: 150px;
+                border-radius: 50px;
+                margin-top: 20px;
+                margin-left: 5px;
+}
+#rasm img{
+                width: 1400px !important;
+                border: 5px solid black;
+                background-size: 1900px !important;
+                margin-top: 50px;
+}
+#header .menu b{
+                position: absolute;
+                left: 1250px;
+                top: 730px;
+}
+#header .menu ul{
+                position: absolute;
+                left: 650px;
+                top: 730px;
+}
+#header ul li{
+                list-style: none;
+}
+#header ul li:nth-child(1){
+                width: 96.7px;
+                border-bottom: 2px solid blue;
+}
+#header ul li:nth-child(2){
+                color: gray;
+}
+#header ul li:nth-child(3){
+                color: gray;
+}#header ul li:nth-child(4){
+                color: gray;
+}
+#texnika .card{
+                margin-top: 50px;
+}
+#texnika .card img{
+                width: 100%;
+}
+#texnika .card .card-body button{
+                width: 150px;
+                margin-left: 100px;
+                color: white;
+}
+.top b{
+                position: absolute;
+                left: 1160px;
+                margin-top: 20px;
+}
+.paris h2{
+                margin-top: 45px;
+}
+.paris h4{
+                width: 548px;
+                margin-top: 50px;
+                position: absolute;
+                left: 180px;
+}
+.footer{
+                height: 600px;
+                background-image: url(./image\ 91.png);
+                padding-top: 500px;
+                color: white;
+}
+#footer2 p{
+                color: gray;
+}
+#footer2 img{
+                border-radius: 50px;
+                background-color: silver;
+}
